@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\dz\dz\bin\Release\dz.exe
+d:\documents\visual studio 2010\Projects\dz\dz\bin\Release\dz.pdb
+d:\documents\visual studio 2010\Projects\dz\dz\obj\x86\Release\dz.exe
+d:\documents\visual studio 2010\Projects\dz\dz\obj\x86\Release\dz.pdb
+d:\documents\visual studio 2010\Projects\dz\dz\obj\x86\Release\dz.csprojResolveAssemblyReference.cache
